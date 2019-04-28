@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MobileTechTest</string>
+    <string name="main_search_bar_hint">Enter name</string>
+</resources>
